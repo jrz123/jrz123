@@ -1,5 +1,5 @@
 <h3 align="center"> Hi, I'm Jhonfer 👋 </h3>
-<p align="center">I like to swim, listen to music and I am not very talkative even in coding. 🖥️ </p>
+<p align="center">I am a hard worker with a desire to get ahead, fulfill dreams of being in a good company and help it grow with my knowledge that, I have acquired over 5 years in programming. I also want to show my experience that I have gained during those years and earn more from it. 🖥️ </p>
 
 ---
 
